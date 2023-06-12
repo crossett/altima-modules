@@ -1,0 +1,10 @@
+apiVersion: v1
+modules:
+  cow: 
+  - version: v0.0.1
+    url: https://github.com/crossett/altima-modules/releases/download/v0.0.1/cow-v0.0.1.tgz
+  horse:
+  - version: v0.0.1
+    url: https://github.com/crossett/altima-modules/releases/download/v0.0.1/horse.tgz
+  - version: v0.0.2
+    url: https://github.com/crossett/altima-modules/releases/download/v0.0.2/horse.tgz
